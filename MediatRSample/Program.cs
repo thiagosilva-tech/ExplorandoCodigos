@@ -3,13 +3,14 @@ using MediatR;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configurações de serviços
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers()
                 .AddXmlSerializerFormatters();
-
 builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
 
+// Build da aplicação
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -24,10 +25,10 @@ else
     app.UseHsts();
 }
 
+// Redirecionamento HTTPS
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
-app.UseAuthorization();
 app.MapControllers();
 
 app.Run();

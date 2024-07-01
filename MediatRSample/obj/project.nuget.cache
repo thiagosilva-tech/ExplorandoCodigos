@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnNAgNVEd5QPSNXtyK3yfjdJ6P22xEvrDtREQHIAGT7++8Rvf10LPpBt/DvjxXlXHnbOFRYj8pBMivUAxWjPqA==",
+  "dgSpecHash": "Hk1PJHyxP2FRnragBEcEekuJjHcULzX2ub8GOA5hBq39FJPfKKrvktl4zn3M7pKdo9DMl63qZfm1XSGC0qWI/w==",
   "success": true,
-  "projectFilePath": "/home/thiago-dev/Testes/MediatRSample/MediatRSample.csproj",
+  "projectFilePath": "/home/thiago-dev/ExplorandoCodigos/MediatRSample/MediatRSample.csproj",
   "expectedPackageFiles": [
     "/home/thiago-dev/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/home/thiago-dev/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",

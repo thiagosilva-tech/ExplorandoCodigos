@@ -4824,11 +4824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/thiago-dev/Testes/MediatRSample/MediatRSample.csproj",
+      "projectUniqueName": "/home/thiago-dev/ExplorandoCodigos/MediatRSample/MediatRSample.csproj",
       "projectName": "MediatRSample",
-      "projectPath": "/home/thiago-dev/Testes/MediatRSample/MediatRSample.csproj",
+      "projectPath": "/home/thiago-dev/ExplorandoCodigos/MediatRSample/MediatRSample.csproj",
       "packagesPath": "/home/thiago-dev/.nuget/packages/",
-      "outputPath": "/home/thiago-dev/Testes/MediatRSample/obj/",
+      "outputPath": "/home/thiago-dev/ExplorandoCodigos/MediatRSample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/thiago-dev/.nuget/NuGet/NuGet.Config"
